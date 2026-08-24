@@ -17,7 +17,7 @@ Welcome to my GitHub page. Where ideas, code (and a lot of coffee ☕️) turn i
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,nextjs,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
 </p>
 
